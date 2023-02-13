@@ -1,7 +1,7 @@
 
 # 语言
 
-## [c](www.baidu.com)
+## [c](http://www.baidu.com)
 ## python
 ## java
 ## go
